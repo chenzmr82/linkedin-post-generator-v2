@@ -1,17 +1,1 @@
-{
-  "name": "linkedin-post-generator",
-  "version": "1.0.0",
-  "description": "Automated LinkedIn post generator for fintech fraud prevention consulting content",
-  "main": "src/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "linkedin",
-    "content-generator",
-    "fintech",
-    "fraud-prevention"
-  ],
-  "author": "Chen Zamir",
-  "license": "MIT"
-}
+ewogICJuYW1lIjogImxpbmtlZGluLXBvc3QtZ2VuZXJhdG9yIiwKICAidmVyc2lvbiI6ICIxLjAuMCIsCiAgImRlc2NyaXB0aW9uIjogIkF1dG9tYXRlZCBMaW5rZWRJbiBwb3N0IGdlbmVyYXRvciBmb3IgZmludGVjaCBmcmF1ZCBwcmV2ZW50aW9uIGNvbnN1bHRpbmcgY29udGVudCIsCiAgIm1haW4iOiAic3JjL2luZGV4LmpzIiwKICAic2NyaXB0cyI6IHsKICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiCiAgfSwKICAia2V5d29yZHMiOiBbCiAgICAibGlua2VkaW4iLAogICAgImNvbnRlbnQtZ2VuZXJhdG9yIiwKICAgICJmaW50ZWNoIiwKICAgICJmcmF1ZC1wcmV2ZW50aW9uIgogIF0sCiAgImF1dGhvciI6ICJDaGVuIFphbWlyIiwKICAibGljZW5zZSI6ICJNSVQiCn0=
